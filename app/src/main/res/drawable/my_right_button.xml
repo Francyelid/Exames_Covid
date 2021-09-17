@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Configuração das bordas -->
+    <stroke
+        android:width="10dp"
+        android:color="@color/default_red_clear" />
+
+    <!-- Configuração do interior do retângulo -->
+    <solid android:color="@color/default_red_clear" />
+
+    <!-- Radio das bordas -->
+    <corners
+        android:topRightRadius="100dp"/>
+</shape>
